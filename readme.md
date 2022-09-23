@@ -27,4 +27,5 @@
 | Update Some Data   | put        | modify | update         |
 | Deleting Some Data | delete     | remove | delete         |
 
-[CyprusCodes.com](http://www.cypruscodes.com)
+## To start the API and docker 
+`xx run`
